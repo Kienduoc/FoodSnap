@@ -1,0 +1,5 @@
+{
+  "name": "FoodSnap",
+  "description": "An AI-powered nutrition assistant that analyzes your meals from a photo. Get detailed insights on dishes, portion sizes, calories, and personalized advice based on your health goals.",
+  "requestFramePermissions": []
+}
